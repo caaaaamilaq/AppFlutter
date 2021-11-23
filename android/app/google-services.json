@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696197076019",
+    "project_id": "bd-app01",
+    "storage_bucket": "bd-app01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696197076019:android:315fc0028404447e097f46",
+        "android_client_info": {
+          "package_name": "com.unbosque.app01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696197076019-28l4iva9j83ot0gvqavnuker205vhp4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtnItEzMF7GNTUT025gtjqpPLe1GiUk14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696197076019-28l4iva9j83ot0gvqavnuker205vhp4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
